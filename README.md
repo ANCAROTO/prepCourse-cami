@@ -1,2 +1,1 @@
-# prepCourse-cami
-repositorio de prueba curso
+este es mi prueba de repositorio y clonarlo de git para clonarlo a mi escritorio
